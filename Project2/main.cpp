@@ -5,9 +5,13 @@ int main(   )
 {
 cout<<"hi"<<endl;
 int num=100;
+int num2;
 cin>>num;
-num = num + 100;
-cout << num*2<< endl;
+//num = num +1 ;
+cout << num<< endl;
+num2 = 3;
+cin>>num2;
+cout << num2 << endl;
 
 return 0;
 }
