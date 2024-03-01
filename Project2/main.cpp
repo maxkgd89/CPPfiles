@@ -5,7 +5,7 @@ int main(   )
 {
 cout<<"hi. input X1"<<endl;
 int num=100;
-int num2;
+int num2=10;
 cin>>num;
 //num = num +1 ;
 cout << num<< endl;
