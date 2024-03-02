@@ -5,7 +5,7 @@
       "name": "(gdb) Launch",
       "type": "cppdbg",
       "request": "launch",
-      "program": "D:/CPPfiles/Project4/main.exe",
+      "program": "D:/CPPfiles/Section08_IncremDecrem/main.exe",
       "args": [],
       "stopAtEntry": true,
       "cwd": "${fileDirname}",
