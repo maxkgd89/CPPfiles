@@ -64,6 +64,8 @@ int main() {
     cout << "\nvector2: " << endl;
     cout << vector2.at(0) << endl;
     cout << vector2.at(1) << endl;
+  //  cout << vector2.at(2) << endl; - no such position
+  //  cout << vector2.at(3) << endl;
     cout << "vector2 contains " << vector2.size() << " elements" << endl;
 
 //   Declare an empty 2D vector called vector_2d
